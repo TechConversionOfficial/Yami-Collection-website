@@ -1,11 +1,20 @@
-
 # Yami Collection Website: Bringing Everyday Essentials, Kids’ Products and Gifting Into One Online Mini-Mall
 
 **Yami Collection is a Gurgaon-based online lifestyle store whose [website](https://yamicollection.com/) is featured in the [Tech Conversion](https://techconversion.tech/) portfolio. Built around the idea of an online neighbourhood mini-mall, the storefront brings bottles and tumblers, lunch boxes, school bags, kids’ stationery, trendy accessories and gifting products into a single shopping experience. The site combines product-led navigation, curated collections, useful purchasing details and direct support so families can discover everyday essentials without moving between unrelated stores.**
 
-Replace these markers after adding an authentic approved homepage browser screenshot:
-![Yami Collection ecommerce homepage showcasing family essentials and featured products](images/yami-collection-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/yami-collection-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/yami-collection-website-mockup.webp" alt="Yami Collection ecommerce website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://yamicollection.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/yami-collection-new-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -15,10 +24,11 @@ Replace these markers after adding an authentic approved homepage browser screen
 | **Location** | Sector 84, Gurgaon (Gurugram), Haryana, India |
 | **Portfolio agency** | [Tech Conversion](https://techconversion.tech/portfolio), Chennai, India |
 | **Project category** | Multi-category B2C online store / lifestyle ecommerce |
-| **Documented engagement** | Web development services; confirmed by an archived client billing record, excluded from this public package |
+| **Documented engagement** | Web development services; supported by archived client records not distributed in this public repository |
 | **Main shopping categories** | Bottles and tumblers; lunch boxes and bags; school/travel bags; stationery; accessories; gifts; festive products; kids’ clothing; jewellery |
 | **Primary audience** | Parents, families, students, gift buyers and everyday lifestyle shoppers |
-| **Storefront technology** | Product catalogue, cart controls, filters and variants visible; exact production plugins, gateways, hosting and integrations not independently audited |
+| **GitHub repository** | [TechConversionOfficial/Yami-Collection-website](https://github.com/TechConversionOfficial/Yami-Collection-website) |
+| **Storefront technology** | Product catalogue, cart controls, filters and variants are visible; exact production plugins, gateways, hosting and integrations not independently audited |
 
 ## About Yami Collection
 
@@ -47,74 +57,51 @@ These are the practical ecommerce needs indicated by the business and its live w
 The observations below describe features visible on the public site and the documented Tech Conversion web-development engagement. They should not be read as a complete internal development log or proof that every checkout integration has passed an end-to-end test.
 
 1. **Introduce the online mini-mall through recognisable categories.** The homepage opens with visual shortcuts for bottles and tumblers, lunch boxes, school bags, stationery, accessories, gifting, festive products, kids’ clothing and jewellery.
-
 2. **Make a diverse catalogue manageable.** The [Shop](https://yamicollection.com/shop/) offers category, price, rating, colour/theme and stock-status filters alongside product cards and sorting tools. These are observable interface controls; filter behaviour has not been independently regression-tested.
-
 3. **Give customers several ways to discover products.** Homepage modules include **Latest**, **Return Gifts** and **Best Sellers**, alongside featured products, seasonal or discounted selections and a [New Arrivals](https://yamicollection.com/new-arrivals/) page.
-
 4. **Show actual product options.** Selected product-detail pages offer colour variants, price, quantity controls and an **Add to cart** action. For example, the [Sitarayuri Insulated Tumbler](https://yamicollection.com/product/sitarayuri-insulated-tumbler/) lists a colour selector and delivery information.
-
 5. **Add location-aware delivery information.** Some product pages include a six-digit pincode checker and published dispatch/shipping estimates. These are seller-provided estimates; current delivery serviceability and checkout charges need confirmation.
-
-6. **Communicate important purchase terms.** The site's current promotional bar advertises India-wide delivery, free shipping above **₹999**, and cash on delivery with a **₹70 additional charge**. Some product pages give more detailed shipping and return conditions, which should be checked for consistency with current policy.
-
+6. **Communicate important purchase terms.** The site's current promotional bar advertises India-wide delivery, free shipping above **₹999**, and cash on delivery with a **₹70 additional charge**. These are client-published terms and should be checked against the current checkout and policy pages before reuse.
 7. **Make gifting a meaningful shopping route.** Gifts, return-gift selections, character-themed accessories and special-event collections give shoppers alternatives to searching for a specific product name.
-
 8. **Provide a direct contact and support path.** The [Contact Us](https://yamicollection.com/contact-us/) page lists the shop's Gurgaon location, support email, telephone number and enquiry form; the storefront also shows a WhatsApp help route.
-
 9. **Support a friendly consumer-brand identity.** The About page connects the store's name with its family origin and explains why its catalogue combines everyday-use products, creative children's items and giftable discoveries.
+10. **Connect discovery to purchasing without making unsupported claims.** Cart buttons, variant selectors and product pages are visible; payment-gateway security, order fulfilment and live checkout completion were not independently audited for this case study.
 
-10. **Connect discovery to purchasing without making unsupported claims.** Cart buttons, variant selectors and product pages are visible; payment gateway security, order fulfilment and live checkout completion were not independently audited for this case study.
+## Website and Project Images
 
-## Project Screenshots and Visual Direction
+### Official Website Mockup
 
-**Authenticated Yami Collection project screenshots were not found in the reviewed Tech Conversion image library.** Several saved files showed the agency's own portfolio interface but did not contain a suitably attributable Yami Collection homepage or product screen. No unrelated project mockups, stock photos or AI-generated art have been labelled as client work.
+The following Tech Conversion portfolio mockup presents Yami Collection as a colourful, multi-category lifestyle and family ecommerce project.
 
-The image paths below are intentionally **commented out** until genuine, approved screenshots are provided. GitHub will not display broken images in the meantime.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/yami-collection-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/yami-collection-website-mockup.webp" alt="Yami Collection responsive family lifestyle ecommerce website mockup" width="100%" />
+  </a>
+</p>
 
-### Homepage and Category Discovery
+*Click the image to open the full-resolution mockup.*
 
- Add a genuine capture of https://yamicollection.com/ :
-![Yami Collection homepage and shop-by-category layout](images/yami-collection-homepage.webp)
+### Full-Length Homepage Screenshot
 
+The following image is the complete Yami Collection homepage capture supplied through Tech Conversion's public project media.
 
-### Product Catalogue and Filters
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/yami-collection-new-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/before-after/yami-collection-new-website-home-page.webp" alt="Yami Collection complete lifestyle ecommerce website homepage screenshot" width="100%" />
+  </a>
+</p>
 
-- Add a genuine capture of https://yamicollection.com/shop/ :
-![Yami Collection shop with product filters and categories](images/yami-collection-shop-filters.webp)
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
 
+### Image Provenance
 
-### Drinkware and Lunch Essentials
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's seven placeholder `images/...` references and the `IMAGE-SOURCES.md` dependency.
 
-Add an authentic product-collection capture:
-![Yami Collection bottles, tumblers and lunch essentials](images/yami-collection-drinkware.webp)
+These visuals document the website presentation, but they are **not evidence of independently measured sales growth, completed-order growth, conversion-rate uplift, repeat-customer growth, organic-ranking gains, checkout reliability, payment security, delivery performance or revenue improvement**.
 
-
-### Individual Product Details
-
- Add an authentic product-detail screenshot showing variants but no user data:
-![Yami Collection product details and delivery pincode checker](images/yami-collection-product-details.webp)
-
-
-### Stationery, School Bags and Gifting
-
- Add an approved category-screen capture:
-![Yami Collection stationery, bags and gifting categories](images/yami-collection-kids-gifting.webp)
-
-
-### Cart and Purchase Journey
-
- Add an approved empty/test cart screenshot, without personal information:
-![Yami Collection shopping cart experience](images/yami-collection-cart.webp)
-
-
-### Mobile Storefront
-
- Add an authentic mobile browser screenshot:
-![Yami Collection mobile shopping experience](images/yami-collection-mobile.webp)
-
-
-For a screenshot checklist, naming rules and attribution requirements, see [IMAGE-SOURCES.md](IMAGE-SOURCES.md).
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key Customer Journeys
 
@@ -144,9 +131,11 @@ These are **appropriate review criteria**, not claims that a formal audit or cer
 
 ## Before and After
 
-No authenticated dated pair of **older and current production screenshots** was found for Yami Collection. The Tech Conversion portfolio entry and documented development engagement establish project attribution, while the live website establishes the current public shopping structure. They do not independently establish a particular redesign timeline or performance improvement.
+A full-page Yami Collection homepage screenshot is available and included above. However, **no authenticated historical BEFORE screenshot or dated old-versus-new production comparison was supplied for this project**, so this README does not manufacture a redesign comparison.
 
-When dated captures are supplied, a future comparison can cover category architecture, product-detail clarity, filter presentation, mobile navigation and checkout information without inventing metrics.
+The supplied homepage screenshot can document the current project presentation. Any historical redesign claim should wait for a verified earlier capture, deployment context and comparable evidence.
+
+Other documented transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
@@ -161,7 +150,16 @@ When dated captures are supplied, a future comparison can cover category archite
 [Tech Conversion](https://techconversion.tech/) (Tech Conversion Persuasive Private Limited) is a website development and digital marketing agency based in Chennai, India. Its work covers corporate websites, ecommerce experiences, SEO, local visibility and conversion-focused digital projects.
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
-- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies/)
+- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public portfolio description**, not a release of the production store or confidential client files. It excludes private invoices, order data, customer addresses, payment details, site credentials and proprietary source code. Yami Collection branding, product photography and third-party marks remain with their respective rights holders.
+## Repository Scope and Image Credits
+
+This repository is a **public portfolio description**, not a release of the production store or confidential client files. It excludes private invoices, order data, customer addresses, payment details, site credentials and proprietary source code.
+
+The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. Yami Collection branding, product photography and third-party marks remain with their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
